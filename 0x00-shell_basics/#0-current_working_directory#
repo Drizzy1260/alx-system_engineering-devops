@@ -70,7 +70,15 @@
 	cd ~ 
 	
 	After click ESC and type :wq            Enter
-	
+0-current_working_directory
+
+
+
+press
+
+
+
+			
 	chmod u+x 2-bring_me_home        Enter 
 	
 	cd ..                          Enter
@@ -395,4 +403,27 @@
 	 
 	 !/bin/bash
 pwd
+
+0-current_working_directory
+
+
+
+press
+:wq
+
+
+0-current_working_directory
+
+
+
+
+
+
+
+
+
+
+
+
+
 
